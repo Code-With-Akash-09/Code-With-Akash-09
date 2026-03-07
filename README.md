@@ -14,14 +14,14 @@
 	</a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Akash09082001&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Code-With-Akash-09&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
 
 # 💫 About Me
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 👋 Hi, I’m @Akash09082001
+- 👋 Hi, I’m @Code-With-Akash-09
 - 👀 Interested in software development, AI, and gaming
 - 🌱 Currently learning machine learning algorithms and modern web development
 - 💞️ Open to collaborations on AI, web, and game-dev projects
@@ -61,22 +61,22 @@ Languages, frameworks and tools I use frequently:
 
 ## 📊 GitHub Stats
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Akash09082001/Akash09082001/output/snake.svg" alt="Snake animation" />
+	<img src="https://raw.githubusercontent.com/Code-With-Akash-09/Code-With-Akash-09/output/snake.svg" alt="Snake animation" />
 
 	<br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Akash09082001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="GitHub stats"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash09082001&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en" height="150" alt="Top languages"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Code-With-Akash-09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="GitHub stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-With-Akash-09&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en" height="150" alt="Top languages"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akash09082001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Code-With-Akash-09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akash09082001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Code-With-Akash-09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
