@@ -19,14 +19,13 @@ jobs:
 
             - name: Generate commits
               run: |
-                  git config --global user.name "Code-With-Akash-09"
-                  git config --global user.email "akashlakade130@gmail.com"
+                  git config user.name "$GITHUB_ACTOR"
+                  git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
-                  for i in {1..4}
-                  do
-                    echo "Commit $i - $(date)" >> activity.log
-                    git add activity.log
-                    git commit -m "Auto commit $i $(date)"
-                  done
-
-                  git push
+                  echo "Auto commit - $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> activity.log
+                  git add activity.log
+                  if git commit -m "Auto commit $(date -u +"%Y-%m-%d %H:%M:%S UTC")"; then
+                      git push
+                  else
+                      echo "No changes to commit"
+                  fi
