@@ -1,0 +1,28 @@
+name: Auto Commits
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *"   # 4 times daily
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate commits
+        run: |
+          git config --global user.name "Code-With-Akash-09"
+          git config --global user.email "akashlakade130@gmail.com
+
+          for i in {1..4}
+          do
+            echo "Commit $i - $(date)" >> activity.log
+            git add activity.log
+            git commit -m "Auto commit $i $(date)"
+          done
+
+          git push
