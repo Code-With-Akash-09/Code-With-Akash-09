@@ -32,8 +32,6 @@ I am a Full Stack Developer from India.
 
 ---
 
----
-
 ## About
 
 I'm a full‑stack developer based in India interested in web development, AI, and game development.
@@ -41,33 +39,43 @@ I'm a full‑stack developer based in India interested in web development, AI, a
 - Open to collaborations on AI, web, and game projects
 - Currently learning machine learning and modern web development
 
-## 🌐 Socials
+---
 
-Find me on:
+## 🌐 Connect With Me
 
-- Instagram: https://www.instagram.com/akashlakade2001/
-- LinkedIn: https://www.linkedin.com/in/akash-lakade-4a249223a/
-- YouTube: https://www.youtube.com/@techtronakash
+<div align="center">
+
+<a href="https://www.instagram.com/akashlakade2001/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/akash-lakade-4a249223a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@techtronakash">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
 Languages, frameworks, and tools I use frequently:
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-</div>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,postman,figma" />
+</p>
 
 ---
 
@@ -75,10 +83,39 @@ Languages, frameworks, and tools I use frequently:
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Code-With-Akash-09/Code-With-Akash-09/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Code-With-Akash-09&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-With-Akash-09&theme=radical" height="150"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-With-Akash-09&theme=react-dark"/>
+
+---
+
+## ✨ Quote
+
+> “Code. Learn. Build. Repeat.”
+
+---
+
+<div align="center">
+
+⭐ From [Akash](https://github.com/Code-With-Akash-09)
+
+</div>
