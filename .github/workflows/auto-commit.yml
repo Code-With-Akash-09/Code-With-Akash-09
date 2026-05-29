@@ -2,7 +2,7 @@ name: Auto Commits
 
 on:
     schedule:
-        - cron: "0 0,3,6,9,12,15,18,21 * * *" # 8 times daily
+        - cron: "0 0,2,4,7,9,12,14,16,19,21 * * *" # 10 times daily # 8 times daily
     workflow_dispatch:
 
 jobs:
