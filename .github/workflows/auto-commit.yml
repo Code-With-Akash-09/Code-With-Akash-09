@@ -2,7 +2,7 @@ name: Auto Commits
 
 on:
     schedule:
-        - cron: "0 0,2,4,7,9,12,14,16,19,21 * * *" # 10 times daily # 8 times daily
+        - cron: "0 0,2,4,7,9,12,14,16,19,21 * * *"
     workflow_dispatch:
 
 jobs:
@@ -15,17 +15,18 @@ jobs:
             - name: Checkout Repo
               uses: actions/checkout@v4
               with:
-                  persist-credentials: true
+                  fetch-depth: 0
 
             - name: Generate commits
               run: |
-                  git config user.name "$GITHUB_ACTOR"
-                  git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
                   echo "Auto commit - $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> activity.log
                   git add activity.log
-                  if git commit -m "Auto commit $(date -u +"%Y-%m-%d %H:%M:%S UTC")"; then
-                      git push
+                  if git diff --cached --quiet; then
+                    echo "No changes to commit"
                   else
-                      echo "No changes to commit"
+                    git commit -m "chore: auto commit $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+                    git push
                   fi
