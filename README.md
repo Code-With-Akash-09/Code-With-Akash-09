@@ -1,121 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Animated header"/>
+<div align="center">
+
+# Akash Lakade
+
+**Full-stack developer building web products and developer tools.**
+
+Based in India · Interested in applied AI, product engineering, and developer experience
+
+[LinkedIn](https://www.linkedin.com/in/akash-lakade-4a249223a/) · [YouTube](https://www.youtube.com/@techtronakash) · [GitHub](https://github.com/Code-With-Akash-09)
+
 </div>
-
-<div id="badges" align="center">
-  <a href="https://www.instagram.com/akashlakade2001/">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/akash-lakade-4a249223a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.youtube.com/@techtronakash">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
-  </a>
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=Code-With-Akash-09&icon=2&color=1)](https://visitcount.itsvg.in)
-
----
-
-# 💫 About Me
-
-I am a Full Stack Developer from India.
-
-- 👋 Hi, I’m @Code-With-Akash-09
-- 👀 Interested in software development, AI, and gaming
-- 🌱 Currently learning machine learning and modern web development
-- 💞️ Open to collaborations on AI, web, and game-dev projects
-- 📫 Reach me via LinkedIn or GitHub discussions
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
 ---
 
 ## About
 
-I'm a full‑stack developer based in India interested in web development, AI, and game development.
+I build across the stack, from user-facing interfaces to APIs and command-line tools. I enjoy turning practical problems into focused software, with current interests in AI-powered applications and tools that make development workflows smoother.
 
-- Open to collaborations on AI, web, and game projects
-- Currently learning machine learning and modern web development
+## Selected projects
 
----
+| Project | What it does |
+| --- | --- |
+| [AI Video Studio](https://github.com/Code-With-Akash-09/AI-Studio) | Full-stack application for generating narrated, captioned videos from scripts, with multi-provider AI support and real-time job progress. |
+| [DevTalk CLI](https://github.com/Code-With-Akash-09/DevTalk-CLI) | Terminal-based team chat with room-based conversations and persisted message history. |
+| [GitShift CLI](https://github.com/Code-With-Akash-09/GitShift-CLI) | CLI for managing GitHub identity profiles, repository Git settings, and directory-based profile switching. |
 
-## 🌐 Connect With Me
+## Tools and technologies
 
-<div align="center">
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend and data:** Node.js, Express, MongoDB, Firebase, Supabase, GraphQL
+- **Tools and platforms:** Git, GitHub, AWS, Vercel, Postman, Figma
 
-<a href="https://www.instagram.com/akashlakade2001/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/akash-lakade-4a249223a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@techtronakash">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+## Get in touch
 
-</div>
-
----
-
-# 💻 Tech Stack
-
-Languages, frameworks, and tools I use frequently:
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
-</p>
-
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,postman,figma" />
-</p>
-
----
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Code-With-Akash-09/Code-With-Akash-09/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Code-With-Akash-09&show_icons=true&theme=radical" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-With-Akash-09&theme=radical" height="150"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-With-Akash-09&theme=react-dark"/>
-
----
-
-## ✨ Quote
-
-> “Code. Learn. Build. Repeat.”
-
----
-
-<div align="center">
-
-⭐ From [Akash](https://github.com/Code-With-Akash-09)
-
-</div>
+For collaboration or project conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/akash-lakade-4a249223a/) or open a discussion on [GitHub](https://github.com/Code-With-Akash-09).
